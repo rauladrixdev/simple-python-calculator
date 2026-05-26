@@ -1,34 +1,34 @@
-# 🧮 Simple Python Calculator
+# Calculadora Simples
 
-Hi, I'm Raul. I'm currently studying Python and building small projects to improve my programming and logical thinking skills.
+Calculadora de terminal feita em Python. Um dos primeiros projetos que fiz quando comecei a estudar programação.
 
-I built the first version of this calculator about 5 months ago as one of my first Python projects. Later, I improved the code organization and error handling to make it more complete and professional.
+## Sobre
 
-This program runs in the terminal and allows the user to perform basic mathematical operations.
+Sou o Raul, estou estudando Python e construindo projetos pra praticar lógica e resolver problemas reais.
 
----
+Criei a primeira versão desse projeto há uns 5 meses, quando ainda estava aprendendo funções. Funcionava, mas o código era bem bagunçado. Resolvi refazer pra aplicar o que aprendi desde então — separar melhor as responsabilidades, tratar erros de forma mais limpa e deixar o código mais fácil de ler.
 
-## 🚀 Features
+## O que faz
 
-- Addition (+)  
-- Subtraction (-)  
-- Multiplication (*)  
-- Power (**)  
-- Division (/)  
-- Integer division (//)  
-- Input validation  
-- Division by zero handling  
+- Adição, subtração, multiplicação e divisão
+- Divisão inteira (`//`) e potenciação (`**`)
+- Valida entrada do usuário (letras, campo vazio, etc.)
+- Trata divisão por zero
 
----
+## Como rodar
 
-## 🛠 Technologies
+Precisa ter o Python 3 instalado.
+
+```bash
+git clone https://github.com/seu-usuario/calculadora-simples.git
+cd calculadora-simples
+python calculadora_simples.py
+```
+
+## O que aprendi
+
+Separar a lógica de cálculo da parte que conversa com o usuário fez bastante diferença. O código ficou menor e mais fácil de mexer. Também entendi melhor por que tratar erros logo no começo evita dor de cabeça depois.
+
+## Tecnologias
 
 - Python 3
-
----
-
-## ▶ How to run
-
-1. Install Python 3  
-2. Download or clone this repository  
-3. Run in the terminal:
