@@ -19,9 +19,11 @@ Criei a primeira versão desse projeto há uns 5 meses, quando ainda estava apre
 
 Precisa ter o Python 3 instalado.
 
+```bash
 git clone https://github.com/rauladrixdev/simple-python-calculator.git
 cd simple-python-calculator
 python calculadora_simples.py
+```
 
 ## O que aprendi
 
