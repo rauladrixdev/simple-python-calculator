@@ -11,7 +11,7 @@ Criei a primeira versão desse projeto há uns 5 meses, quando ainda estava apre
 ## O que faz
 
 - Adição, subtração, multiplicação e divisão
-- Divisão inteira (`//`) e potenciação (`**`)
+- Divisão inteira (//) e potenciação (**)
 - Valida entrada do usuário (letras, campo vazio, etc.)
 - Trata divisão por zero
 
@@ -19,11 +19,9 @@ Criei a primeira versão desse projeto há uns 5 meses, quando ainda estava apre
 
 Precisa ter o Python 3 instalado.
 
-```bash
-git clone https://github.com/seu-usuario/calculadora-simples.git
-cd calculadora-simples
+git clone https://github.com/rauladrixdev/simple-python-calculator.git
+cd simple-python-calculator
 python calculadora_simples.py
-```
 
 ## O que aprendi
 
